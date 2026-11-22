@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Kuntal+Kumar+Panda" alt="Typing SVG" /></a></h1>
+<h1 align="center">Hi 👋, I'm Kuntal Kumar Panda</h1>
 <h3 align="center">Computer Science student specializing in Artificial Intelligence and Machine Learning, with hands-on experience building, training, and evaluating machine learning and deep learning models for real-world problems</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=afk-kuntal&label=Profile%20views&color=0e75b6&style=flat" alt="afk-kuntal" /> </p>
 
 - 🌱 I’m currently learning **AI,MERN**
 
@@ -7,8 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kuntalkrpanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kuntal kumar panda" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kuntalpanda1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kuntalpanda1/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kuntal kumar panda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kuntal kumar panda" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/kuntalpanda1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kuntalpanda1/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/kuntalpg6xd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kuntalpg6xd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
