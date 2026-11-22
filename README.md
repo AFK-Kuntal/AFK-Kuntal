@@ -22,23 +22,33 @@
 <table>
   <tr>
     <td>
-      <h3>🧠 MNIST Digit Classification</h3>
-      <p>
-          A deep learning-based handwritten digit classification model
-          trained on the MNIST dataset to recognize numerical digits
-          (0–9). Developed using Python and Keras, the project focuses
-          on model training, learning patterns from handwritten images,
-          and predicting the corresponding digits.
-      </p>
-      <p>
-        <b>Technologies:</b> Python · Deep Learning · Keras · Streamlit
-      </p>
-      <a href="https://ultra-digit-classifier.streamlit.app/">
-        <img src="https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-      </a>
-      <a href="https://github.com/AFK-Kuntal/MNIST-DigitClassification">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
+  <h3>🧠 MNIST Digit Classification</h3>
+  
+  <p>
+    A deep learning-based handwritten digit classification model
+    trained on the MNIST dataset to recognize numerical digits (0–9).
+    Developed using Python,Scikit-Learn and Tensorflow the project focuses on model
+    training, learning patterns from handwritten images, and
+    predicting the corresponding digits.
+  </p>
+  
+  <p><b>Technologies</b></p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB" />
+    <img src="https://img.shields.io/badge/Deep%20Learning-161B22?style=flat-square&logoColor=white" />
+    <img src="https://img.shields.io/badge/Keras-161B22?style=flat-square&logo=keras&logoColor=D00000" />
+    <img src="https://img.shields.io/badge/Streamlit-161B22?style=flat-square&logo=streamlit&logoColor=FF4B4B" />
+  </p>
+  
+  <p>
+    <a href="https://ultra-digit-classifier.streamlit.app/">
+      <img src="https://img.shields.io/badge/↗_LIVE_DEMO-238636?style=for-the-badge&logoColor=white" />
+    </a>
+    <a href="https://github.com/AFK-Kuntal/MNIST-DigitClassification">
+      <img src="https://img.shields.io/badge/GITHUB-21262D?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
     </td>
   </tr>
 </table>
