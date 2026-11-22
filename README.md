@@ -26,7 +26,21 @@
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=afk-kuntal&theme=github-dark-blue&hide_border=true&background=0D1117&ring=FF9B45&fire=FFD166&currStreakLabel=FF9B45&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"
+    width="550"
+    alt="Kuntal's GitHub Streak Stats"
+  />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afk-kuntal&show_icons=true&locale=en" alt="afk-kuntal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afk-kuntal&" alt="afk-kuntal" /></p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=afk-kuntal&show_icons=true&hide_rank=false&rank_icon=default&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=30363D&border_radius=15&include_all_commits=false"
+    width="495"
+    alt="Kuntal's GitHub Stats"
+  />
+</p>
+
+
