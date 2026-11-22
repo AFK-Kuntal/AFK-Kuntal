@@ -32,14 +32,14 @@
     predicting the corresponding digits.
   </p>
   
-  <p><b>Technologies</b></p>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB" />
-    <img src="https://img.shields.io/badge/Deep%20Learning-161B22?style=flat-square&logoColor=white" />
-    <img src="https://img.shields.io/badge/Keras-161B22?style=flat-square&logo=keras&logoColor=D00000" />
-    <img src="https://img.shields.io/badge/Streamlit-161B22?style=flat-square&logo=streamlit&logoColor=FF4B4B" />
-  </p>
+<p><b>Technologies</b></p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/scikit--learn-161B22?style=flat-square&logo=scikitlearn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/TensorFlow-161B22?style=flat-square&logo=tensorflow&logoColor=FF6F00" />
+  <img src="https://img.shields.io/badge/Streamlit-161B22?style=flat-square&logo=streamlit&logoColor=FF4B4B" />
+</p>
   
   <p>
     <a href="https://ultra-digit-classifier.streamlit.app/">
