@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kuntal Kumar Panda</h1>
+<h1 align="center">Hi 👋, <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Kuntal+Kumar+Panda" alt="Typing SVG" /></a></h1>
 <h3 align="center">Computer Science student specializing in Artificial Intelligence and Machine Learning, with hands-on experience building, training, and evaluating machine learning and deep learning models for real-world problems</h3>
 
 - 🌱 I’m currently learning **AI,MERN**
